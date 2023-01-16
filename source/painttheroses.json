@@ -1,0 +1,29 @@
+{
+    "attributes" : {
+        "color": ["red", "pink", "yellow", "violet"],
+        "shape": ["spade", "heart", "clover", "diamond"],
+    },
+    "mode": {
+        "easy": [{
+            "side": "color",
+            "top": "color"
+        }],
+        "medium": [{
+            "side": "color",
+            "top": "color"
+        }, {
+            "side": "shape",
+            "top": "shape"
+        }],
+        "hard": [{
+            "side": "color",
+            "top": "color"
+        }, {
+            "side": "shape",
+            "top": "shape"
+        },{
+            "side": "color",
+            "top": "shape"
+        }]
+    }
+}
