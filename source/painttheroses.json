@@ -1,15 +1,19 @@
 {
     "mode": {
         "easy": [{
-            "attributes": ["red", "pink", "yellow", "violet"]
+            "attributes": ["red", "pink", "yellow", "violet"],
+            "id":1
         }],
         "medium": [{
-            "attributes": ["red", "pink", "yellow", "violet"]
+            "attributes": ["red", "pink", "yellow", "violet"],
+            "id":1
         }, {
-            "attributes": ["spade", "heart", "clover", "diamond"]
+            "attributes": ["spade", "heart", "clover", "diamond"],
+            "id":2
         }],
         "hard": [{
             "attributes": ["red", "pink", "yellow", "violet", "spade", "heart", "clover", "diamond"],
+            "id":1
         }]
     }
 }
